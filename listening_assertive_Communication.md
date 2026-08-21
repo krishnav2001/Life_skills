@@ -2,13 +2,14 @@
 
 ## Question 1
 
-**What are the steps/strategies to do Active Listening?**
-1.Listen to the speaker attentively.
-2.Don’t get distracted. Listen to the conversation.
-3.Use positive body language and make eye contact.
-4.Allow the speaker to complete without interruption.
-5.Ask the speaker to explain more. Encourage him or her to elaborate.
-6.Listen without judging or criticizing their ideas right away.
+## What are the steps/strategies to do Active Listening?
+
+1. Listening carefully to the speaker.
+2. Staying focused on what is being told and avoid distractions.
+3. Maintaining the eye contact to show attentiveness
+4. Don't interrupt the speaker until they have finished speaking.
+5. Ask them to explain a given topic which you found confusing
+6. Avoid judging or criticizing their ideas immediately.
 
 ## Question 2
 
@@ -54,17 +55,18 @@ I usually become aggressive when I am very frustrated, angry, or feel that someo
 
 **When do you switch into Passive-Aggressive communication style in your day-to-day life?**
 
-I may become passive-aggressive when I am upset but don't directly express what I am feeling. For example, I might use sarcasm, give short replies, avoid talking to someone, or make indirect comments instead of clearly explaining what is bothering me.
+I may be passive aggressive when I am upset but not say what I am feeling. For example, I might use sarcasm, respond briefly, refuse to talk to someone or say something indirectly instead of directly what is bothering me.
 
 ## Question 8
 
 **How can you make your communication assertive?**
 
-Going forward, I can make my communication more assertive by:
+ From now on, I can use more assertive communication by:
 
-1. Recognizing my feelings before responding instead of reacting immediately.
-2. Being clear about what I need, instead of assuming people will know automatically.
-3. Being honest and direct but kind and sensitive.
-4. Saying no when necessary without feeling guilty.
-5. Listening to the other person's point of view before reacting.
+1. Responding instead of reacting impulsively.
+2. Understanding my feelings before reacting.
+3. Being clear about what I want instead of assuming that others will know automatically.
+4. Conveying what I feel directly and honestly without being rude.
+5. Learning to say "no" when necessary without feeling guilty.
+
 
