@@ -3,23 +3,21 @@
 ## Question 1
 
 **What are the steps/strategies to do Active Listening?**
-
-1. Give the speaker your full attention.
-2. Avoid distractions and focus on the conversation.
-3. Maintain eye contact and use positive body language.
-4. Let the speaker finish without interrupting.
-5. Encourage the speaker to continue by asking them to explain more.
-6. Listen without judging or immediately criticizing their ideas.
+1.Listen to the speaker attentively.
+2.Don’t get distracted. Listen to the conversation.
+3.Use positive body language and make eye contact.
+4.Allow the speaker to complete without interruption.
+5.Ask the speaker to explain more. Encourage him or her to elaborate.
+6.Listen without judging or criticizing their ideas right away.
 
 ## Question 2
 
 **According to Fisher's model, what are the key points of Reflective Listening?**
 
-1. Listen carefully to understand what the other person is saying.
+1. Listen carefully to know what the other person is saying.
 2. Repeat the main idea in your own words to show that you understood.
-3. Reflect the person's feelings along with their words.
-4. Do not judge or criticize while listening.
-5. Check your understanding by asking if you understood them correctly.
+3. Test your understanding by asking if you understood them correctly.
+
 
 
 ## Question 3
@@ -28,10 +26,7 @@
 
 - Getting distracted easily.
 - Thinking about what I want to say next instead of listening.
-- Interrupting the speaker.
-- Making assumptions before hearing the full message.
-- Getting influenced by my own opinions or judgments.
-- Losing focus during long conversations.
+- Interrupting the speaker before letting him complete him.
 
 
 ## Question 4
@@ -40,10 +35,9 @@
 
 - Give the speaker my full attention.
 - Avoid distractions while listening.
-- Let the speaker finish before responding.
-- Ask questions when something is unclear.
-- Paraphrase what I understood to make sure I got the message correctly.
-- Avoid judging or forming conclusions too quickly.
+- Wait until the speaker has finished before you answer.
+- If you don’t understand something, ask questions.
+
 
 ## Question 5
 
@@ -69,9 +63,8 @@ I may become passive-aggressive when I am upset but don't directly express what 
 Going forward, I can make my communication more assertive by:
 
 1. Recognizing my feelings before responding instead of reacting immediately.
-2. Clearly expressing what I need instead of expecting others to understand automatically.
-3. Being honest and direct while still respecting the other person's feelings.
-4. Saying **"no" when necessary** without feeling guilty.
-5. Listening to the other person's point of view before responding.
-6. Taking responsibility for my mistakes instead of making excuses.
-7. Staying calm during disagreements and focusing on solving the problem rather than winning the argument.
+2. Being clear about what I need, instead of assuming people will know automatically.
+3. Being honest and direct but kind and sensitive.
+4. Saying no when necessary without feeling guilty.
+5. Listening to the other person's point of view before reacting.
+
