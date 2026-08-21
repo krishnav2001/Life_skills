@@ -4,7 +4,7 @@
 
 **What is the Feynman Technique? Explain in 1 line.**
 
-Feynman Technique emphasizes on the fact our ability of understanding new and complicated things depend on how easily we are able to explain that particular topic to someone. If we are not able to easily then basically we have not understood it properly. 
+Feynman Technique emphasizes on the fact that our ability of understanding new and complicated things depend on how easily we are able to explain that particular topic to someone. If we are not able to easily then basically we have not understood it properly. 
 ## Question 2
 
 **In this video, what was the most interesting story or idea for you?**
@@ -29,7 +29,6 @@ The most interesting idea for me was the **“pinball machine” analogy** which
 
 **What are some of the actions you can take going forward to improve your learning process?**
 
-- Use **active recall** instead of just rereading notes.
 - Explain concepts using the **Feynman Technique**.
 - **Identify gaps** in your understanding and revisit them.
 - Practice consistently and **review topics at spaced intervals**.
